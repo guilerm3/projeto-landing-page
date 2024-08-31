@@ -60,7 +60,7 @@ strong{
     border-style: hidden;
 }
 #h1Rodape{
-    padding: 60px 0 10px 500px;
+    padding: 60px 0 10px 800px;
     font-size: 20px;
 }
 input{
@@ -70,5 +70,5 @@ input{
     height: 40px;
 }
 #form{
-    margin-left: 500px;
+    margin-left: 800px;
 }
