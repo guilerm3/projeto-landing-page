@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+#cabecalho{
+    background-color:#303030;
+    color: #FFFF;
+}
+
+#tituloCabecalho{
+    font-size: 50px;
+    padding: 100px 0px 10px 30px;
+}
+
+#textoCabecalho{
+    font-size: 15px;
+    padding: 0 0 80px 30px;
+}
+#info{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+.textoInfo{
+    margin: 50px;
+}
+strong{
+    font-size: 25px;
+}
+#imagem1{
+    margin: 70px 0 70px 80px;
+}
+#tituloImg{
+    margin-left: 100px;
+}
+#pImg{
+    margin-left: 100px;
+    margin-top: 25px;
+}
+#secaoImg{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+#textoImg{
+    margin-top: 200px;
+}
+#rodape{
+    color: white;
+    background-color:#303030;
+}
+#butao{
+    margin: 30px 0 40px 100px;
+    color: white;
+    background-color:#C07212;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    border-style: hidden;
+}
+#h1Rodape{
+    padding: 60px 0 10px 500px;
+    font-size: 20px;
+}
+input{
+    margin: 20px;
+    border-radius: 10px;
+    width: 300px;
+    height: 40px;
+}
+#form{
+    margin-left: 500px;
+}
