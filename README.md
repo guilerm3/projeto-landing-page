@@ -1,5 +1,4 @@
-# projeto-landing-page
- #Desafio 1 - Resolução
+# Desafio 1 - Resolução
  
 Link do site disponibilizado: https://arquiteta.netlify.app
 
